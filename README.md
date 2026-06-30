@@ -47,6 +47,5 @@ Execute o pipeline de ingestão e visualize os resultados no dashboard.
 
 
 Desenvolvido por Thiago Cassiano Gonçalves
-Conecte-se comigo: [Seu LinkedIn]
 
 [ ] Deploy do pipeline em arquitetura Serverless (AWS Lambda ou Google Cloud Functions).
